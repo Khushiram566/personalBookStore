@@ -1,0 +1,106 @@
+.aboutPhoto{
+      background-image: url('../src/assets/img9.jpg');
+      background-position:center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: rgb(242, 247, 247);
+      text-align: center;
+      padding-top: 111px;
+      height:40em;
+      width:90%;
+
+     
+      /* background-color: green; */
+      /* height:100%;
+      width:50%; */
+
+      }
+
+            .aboutPhoto1 {
+                  /* background-image: url('../src/assets/img9.jpg'); */
+                  /* background-color: black; */
+            background-image: linear-gradient(to right, rgb(45, 11, 241), rgb(13, 37, 27));
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  color: rgb(242, 247, 247);
+                  text-align: center;
+                  padding-top: 1px;
+                  height: 40em;
+                  width: 100%;
+                  margin-top:60px;
+                  /* text-decoration:underline; */
+                  
+      
+      
+                  /* background-color: green; */
+                  /* height:100%;
+            width:50%; */
+      
+            }
+
+.heading1{
+      text-shadow: rgb(12, 130, 130);
+      font-weight: bold;
+      font-size:xx-large;
+      text-decoration:underline;
+}
+.headingAbout{
+      
+      font-weight: bold;
+      font-size:xx-large;
+      /* padding-top: 3px; */
+      /* color:white; */
+      /* background-color: green; */
+      padding:15px;
+      padding-bottom: 35px;
+}
+
+ .aboutPhoto3 {
+       background-image: url('../src/assets/img9.jpg');
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       color: rgb(242, 247, 247);
+       text-align: center;
+       /* padding-top: 1px; */
+       height: 640px; 
+       width: 100%;
+       /* margin-top: 60px; */
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       
+       align-items: center;
+       
+
+
+             /* background-color: green; */
+             /* height:100%;
+            width:50%; */
+
+            
+
+ }
+
+ .g1{
+     padding-bottom: 297px;
+     font-weight: bold;
+     font-size:35px;
+ }
+
+
+ 
+.logout1:hover{
+      background-color: blue;
+
+      
+
+
+}
+
+/* .paragraph{
+      
+      background-color: aqua;
+      text-decoration-line: none;
+} */

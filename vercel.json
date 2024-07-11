@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/static/(.*)",
+      "dest": "/static/$1"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/book/:id",
+      "destination": "http://localhost:5000/book/:id"
+    }
+  ],
+  "cleanUrls": true
+}
